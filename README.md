@@ -1,6 +1,6 @@
-# Ayushman Mohapatra
-
-Computer science student focused on AI/ML, backend development and open source.
+<p align="center">
+  <img src="assets/ayushman-banner.svg" width="100%" alt="Ayushman Mohapatra — Python, AI and ML, backend and open source">
+</p>
 
 [LinkedIn](https://www.linkedin.com/in/ayushman-mohapatra-am015) · [Repositories](https://github.com/AyushmanMohapatra015?tab=repositories)
 
