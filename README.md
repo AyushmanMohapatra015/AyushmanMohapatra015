@@ -1,66 +1,52 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Ayushman Mohapatra — Python, AI/ML, backend and web development">
-</picture>
+# Ayushman Mohapatra
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayushman-mohapatra-am015">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/AyushmanMohapatra015?tab=repositories">Repositories</a>
-</p>
+Computer science student focused on AI/ML, backend development and open source.
 
-## Skills
+[LinkedIn](https://www.linkedin.com/in/ayushman-mohapatra-am015) · [Repositories](https://github.com/AyushmanMohapatra015?tab=repositories)
+
+## Tech stack
 
 **Languages & web**
 
-<p>
-  <img src="assets/skills/python.svg" width="86" height="78" alt="python">
-  <img src="assets/skills/java.svg" width="86" height="78" alt="java">
-  <img src="assets/skills/typescript.svg" width="86" height="78" alt="typescript">
-  <img src="assets/skills/javascript.svg" width="86" height="78" alt="javascript">
-  <img src="assets/skills/html.svg" width="86" height="78" alt="html">
-  <img src="assets/skills/css.svg" width="86" height="78" alt="css">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,java,ts,js,html,css&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js,html,css&amp;theme=dark" alt="Python · Java · TypeScript · JavaScript · HTML · CSS" height="44">
+</picture>
 
-**Frameworks, backend & data**
+<sub>Python · Java · TypeScript · JavaScript · HTML · CSS</sub>
 
-<p>
-  <img src="assets/skills/react.svg" width="86" height="78" alt="react">
-  <img src="assets/skills/nextjs.svg" width="86" height="78" alt="nextjs">
-  <img src="assets/skills/fastapi.svg" width="86" height="78" alt="fastapi">
-  <img src="assets/skills/postgresql.svg" width="86" height="78" alt="postgresql">
-  <img src="assets/skills/sqlite.svg" width="86" height="78" alt="sqlite">
-  <img src="assets/skills/docker.svg" width="86" height="78" alt="docker">
-</p>
+**Frameworks & data**
 
-**AI & developer tools**
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,fastapi,postgres,sqlite&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,postgres,sqlite&amp;theme=dark" alt="React · Next.js · FastAPI · PostgreSQL · SQLite" height="44">
+</picture>
 
-<p>
-  <img src="assets/skills/pytorch.svg" width="86" height="78" alt="pytorch">
-  <img src="assets/skills/sklearn.svg" width="86" height="78" alt="sklearn">
-  <img src="assets/skills/langgraph.svg" width="86" height="78" alt="langgraph">
-  <img src="assets/skills/git.svg" width="86" height="78" alt="git">
-  <img src="assets/skills/actions.svg" width="86" height="78" alt="actions">
-  <img src="assets/skills/pytest.svg" width="86" height="78" alt="pytest">
-  <img src="assets/skills/playwright.svg" width="86" height="78" alt="playwright">
-</p>
+<sub>React · Next.js · FastAPI · PostgreSQL · SQLite</sub>
+
+**Machine learning & tooling**
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,sklearn,docker,git,githubactions&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,docker,git,githubactions&amp;theme=dark" alt="PyTorch · scikit-learn · Docker · Git · GitHub Actions" height="44">
+</picture>
+
+<sub>PyTorch · scikit-learn · Docker · Git · GitHub Actions</sub>
+
+<sub>Also working with LangGraph, pytest and Playwright.</sub>
 
 ## Selected projects
 
-- **[Dojo](https://github.com/AyushmanMohapatra015/Dojo)** — Coding-agent evaluation and cost analysis.
-- **[Nudge](https://github.com/AyushmanMohapatra015/Nudge)** — Freelancer scope management and sandbox invoicing.
-- **[Hisaab](https://github.com/AyushmanMohapatra015/Hisaab)** — Hindi voice-based wage ledger.
+- **[Dojo](https://github.com/AyushmanMohapatra015/Dojo)** — Coding-agent evaluation, reproducible tasks and cost analysis.
+- **[Nudge](https://github.com/AyushmanMohapatra015/Nudge)** — AI-assisted scope management and sandbox invoicing for freelancers.
+- **[Hisaab](https://github.com/AyushmanMohapatra015/Hisaab)** — Hindi voice-based wage ledger with confirmation and traceable corrections.
 
 ## Open source
 
-A few merged contributions:
+Selected merged contributions:
 
-- **Meshery** — [Catalog sorting](https://github.com/meshery/meshery.io/pull/3285) · [Programs page spacing](https://github.com/meshery/meshery.io/pull/3286)
-- **Microcks** — [OpenAPI re-import documentation](https://github.com/microcks/microcks.io/pull/78)
-- **AOSSIE** — [OpenVerifiableLLM Windows dependencies](https://github.com/AOSSIE-Org/OpenVerifiableLLM/pull/318)
+- **Meshery** — [Catalog sorting](https://github.com/meshery/meshery.io/pull/3285) · [Programs page layout](https://github.com/meshery/meshery.io/pull/3286)
+- **Microcks** — [OpenAPI documentation](https://github.com/microcks/microcks.io/pull/78)
+- **AOSSIE** — [Windows dependency support for OpenVerifiableLLM](https://github.com/AOSSIE-Org/OpenVerifiableLLM/pull/318)
 
-<details>
-<summary>More contributions</summary>
-
-[See all authored pull requests](https://github.com/pulls?q=is%3Apr+author%3AAyushmanMohapatra015)
-
-</details>
+[All public pull requests →](https://github.com/search?q=author%3AAyushmanMohapatra015+is%3Apr&type=pullrequests)
